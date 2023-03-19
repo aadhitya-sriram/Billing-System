@@ -1,0 +1,15 @@
+Bill No: 35
+Date: 19.03.2023
+Time: 20:17:19
+
+S.no	Price	Quantity	Amount	Item
+1	60	3		180		Apple
+2	40	2		80		Mango
+3	30	1		30		Banana
+4	60	2		120		Orange
+
+
+Total Bill: 410
+
+Thank you for shopping with us!
+Come again soon!
